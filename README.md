@@ -51,16 +51,6 @@ I build scalable web applications and AI-powered solutions using the MERN stack 
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashwin7071/Ashwin7071/output/github-contribution-grid-snake.svg" />
-</p>
-
-> ⚠️ The snake animation needs a one-time GitHub Actions setup — see notes below.
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ashwin7071&label=Profile%20Views&color=61DAFB&style=for-the-badge" />
 </p>
